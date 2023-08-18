@@ -1,0 +1,40 @@
+body{
+
+	background-image: url(https://i.pinimg.com/originals/95/5c/31/955c316e93cec1ffad31903d433aa300.gif);
+	background-position: center;
+	backgroud-repeat: no-repeat;
+	background-size: cover;
+	width: 80%;
+	margin: 0 auto;
+	padding: 0;
+}
+
+ a{
+	text-decoration: none;
+	color: #fff;
+
+}
+
+nav a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+	text-shadow: 0 0 px #fff;, 0 0 8px white;
+}
+
+form{
+	border: 1px #ccc solid;
+	box-shadow: 0 0 5px 3px #F80399;
+	padding: 30px;
+	width: 250px;
+}
+
+.blanco{
+	color: deepskyblue;
+	font-size: 2opx;
+}
+
+.btn{
+	width: 80px;
+	background: deepskyblue;
+	border-radius: 5px;
+}
